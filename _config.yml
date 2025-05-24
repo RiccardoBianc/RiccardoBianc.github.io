@@ -1,8 +1,29 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Riccardo Bianchini
+description: personale website
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
 
+
+url: https://RiccardoBianc.github.io
+
+# Aux links for the upper right navigation
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "GitHub":
+    - "//github.com/RiccardoBianc"
+  "Linkedin":
+    - "https://www.linkedin.com/in/riccardo-b-4079a31a6/"
+  "ResearchGate":
+    - "https://www.researchgate.net/profile/Riccardo-Bianchini-3?ev=hdr_xprf"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+search_enabled: false
+
+plugins: ['jekyll/scholar']
+
+scholar:
+  style: _bibliography/mystyle.csl
+  bibliography: biblio.bib
+  order: descending
+  sort_by: year
