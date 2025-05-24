@@ -11,7 +11,7 @@ layout: home
 [Resource-awareness for Java-like languages and beyond](https://iris.unige.it/retrieve/0491538c-536a-4994-86a8-e55c9535a110/phdunige_4231932.pdf)\\
 supervised by Elena Zucca (Unige), Francesco Dagnino (Unige) and Paola Giannini (UniUpo)\\
 DIBRIS - Università di Genova\\
-PhD Program in Computer Scince and System Engineering, Cycle XXXVI\\
+PhD Program in Computer Science and System Engineering, Cycle XXXVI\\
 Thesis defended in April 23, 2024
 
 # Software
