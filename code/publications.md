@@ -7,7 +7,7 @@ layout: home
 
 {% bibliography %}
 
-# Phd thesis
+# PhD thesis
 [Resource-awareness for Java-like languages and beyond](https://iris.unige.it/retrieve/0491538c-536a-4994-86a8-e55c9535a110/phdunige_4231932.pdf)\\
 supervised by Elena Zucca (Unige), Francesco Dagnino (Unige) and Paola Giannini (UniUpo)\\
 DIBRIS - Università di Genova\\
