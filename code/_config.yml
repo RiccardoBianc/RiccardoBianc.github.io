@@ -6,14 +6,6 @@ theme: just-the-docs
 
 url: https://RiccardoBianc.github.io
 
-# Aux links for the upper right navigation
-aux_links:
-  "GitHub":
-    - "//github.com/RiccardoBianc"
-  "Linkedin":
-    - "https://www.linkedin.com/in/riccardo-b-4079a31a6/"
-  "ResearchGate":
-    - "https://www.researchgate.net/profile/Riccardo-Bianchini-3?ev=hdr_xprf"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
