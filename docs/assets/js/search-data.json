@@ -29,18 +29,39 @@
   },"4": {
     "doc": "Publications",
     "title": "Publications",
-    "content": ". | Riccardo Bianchini and Francesco Dagnino. QueryAGT: Asynchronous global types in co-logic programming. Sci. Comput. Program., 225 :102895, 2023. | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca. A Java-like calculus with heterogeneous coeffects. Theoretical Computer Science, 971 :114063, 2023. | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca. Multi-graded Featherweight Java. In: Ali, K. and Salvaneschi, G. (eds.) European Conference on Object-Oriented Programming, ECOOP 2023, pp. 3:1–3:27, 756, 2023. | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca. Resource-Aware Soundness for Big-Step Semantics. Proceedings of ACM on Programming Languages, 7(OOPSLA2) :1281–1309, 2023. | Riccardo Bianchini. Monitoring for Resource-Awareness. In: Ancona, D. and Audrito, G. (eds.) Verification and Monitoring at Runtime Execution, VORTEX 2023, pp. 13–16, ACM Press, 2023. | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, Elena Zucca, and Marco Servetto. Coeffects for sharing and mutation. Proceedings of ACM on Programming Languages, 6(OOPSLA) :870–898, 2022. | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, Elena Zucca, and Marco Servetto. Coeffects for sharing and mutation. CoRR, abs/2209.07439 2022. | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca. A Java-like calculus with user-defined coeffects. In: Lago, U.D. and Gorla, D. (eds.) ICTCS’22 - Italian Conference on Theoretical Computer Science, pp. 66–78, CEUR-WS.org, 2022. | Riccardo Bianchini and Francesco Dagnino. Asynchronous Global Types in Co-logic Programming. In: Damiani, F. and Dardha, O. (eds.) Coordination Models and Languages - 23rd IFIP WG 6.1 International Conference, COORDINATION 2021, Held as Part of the 16th International Federated Conference on Distributed Computing Techniques, DisCoTec 2021, Valletta, Malta, June 14-18, 2021, Proceedings, pp. 134–146, Springer, 2021. | . ",
+    "content": " ",
     "url": "/publications.html",
     
     "relUrl": "/publications.html"
   },"5": {
+    "doc": "Publications",
+    "title": "Conference papers",
+    "content": ". | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca. Multi-graded Featherweight Java. In: Ali, K. and Salvaneschi, G. (eds.) European Conference on Object-Oriented Programming, ECOOP 2023, pp. 3:1–3:27, 756, 2023. | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca. Resource-Aware Soundness for Big-Step Semantics. Proceedings of ACM on Programming Languages, 7(OOPSLA2) :1281–1309, 2023. | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, Elena Zucca, and Marco Servetto. Coeffects for sharing and mutation. Proceedings of ACM on Programming Languages, 6(OOPSLA) :870–898, 2022. | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca. A Java-like calculus with user-defined coeffects. In: Lago, U.D. and Gorla, D. (eds.) ICTCS’22 - Italian Conference on Theoretical Computer Science, pp. 66–78, CEUR-WS.org, 2022. | Riccardo Bianchini and Francesco Dagnino. Asynchronous Global Types in Co-logic Programming. In: Damiani, F. and Dardha, O. (eds.) Coordination Models and Languages - 23rd IFIP WG 6.1 International Conference, COORDINATION 2021, Held as Part of the 16th International Federated Conference on Distributed Computing Techniques, DisCoTec 2021, Valletta, Malta, June 14-18, 2021, Proceedings, pp. 134–146, Springer, 2021. | . ",
+    "url": "/publications.html#conference-papers",
+    
+    "relUrl": "/publications.html#conference-papers"
+  },"6": {
+    "doc": "Publications",
+    "title": "Journal papers",
+    "content": ". | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca. A Java-like calculus with heterogeneous coeffects. Theoretical Computer Science, 971 :114063, 2023. | Riccardo Bianchini and Francesco Dagnino. QueryAGT: Asynchronous global types in co-logic programming. Sci. Comput. Program., 225 :102895, 2023. | . ",
+    "url": "/publications.html#journal-papers",
+    
+    "relUrl": "/publications.html#journal-papers"
+  },"7": {
+    "doc": "Publications",
+    "title": "Workshop papers",
+    "content": ". | Riccardo Bianchini. Monitoring for Resource-Awareness. In: Ancona, D. and Audrito, G. (eds.) Verification and Monitoring at Runtime Execution, VORTEX 2023, pp. 13–16, ACM Press, 2023. | . ",
+    "url": "/publications.html#workshop-papers",
+    
+    "relUrl": "/publications.html#workshop-papers"
+  },"8": {
     "doc": "Publications",
     "title": "PhD thesis",
     "content": "Resource-awareness for Java-like languages and beyond supervised by Elena Zucca (Unige), Francesco Dagnino (Unige) and Paola Giannini (UniUpo) DIBRIS - Università di Genova PhD Program in Computer Science and System Engineering, Cycle XXXVI Thesis defended in April 23, 2024 . ",
     "url": "/publications.html#phd-thesis",
     
     "relUrl": "/publications.html#phd-thesis"
-  },"6": {
+  },"9": {
     "doc": "Publications",
     "title": "Software",
     "content": "Query AGT: An implementation in co-logic programming of the asynchronous global type system with a simple query language to interact with it . ",

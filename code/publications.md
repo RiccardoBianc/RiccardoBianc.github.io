@@ -5,7 +5,18 @@ layout: home
 
 # Publications
 
-{% bibliography %}
+## Conference papers
+
+{% bibliography --file conference%}
+
+## Journal papers
+
+{% bibliography --file journal%}
+
+## Workshop papers
+
+{% bibliography --file workshop%}
+
 
 # PhD thesis
 [Resource-awareness for Java-like languages and beyond](https://iris.unige.it/retrieve/0491538c-536a-4994-86a8-e55c9535a110/phdunige_4231932.pdf)\\

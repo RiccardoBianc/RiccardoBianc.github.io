@@ -16,6 +16,8 @@ plugins: ['jekyll/scholar']
 
 scholar:
   style: _bibliography/mystyle.csl
-  bibliography: biblio.bib
+  bibliography: journal.bib
+  bibliography: workshop.bib
+  bibliography: conference.bib
   order: descending
   sort_by: year
