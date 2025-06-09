@@ -1,0 +1,16 @@
+<div class="pub-entry">
+  {{ reference }}
+
+  <!-- Link section -->
+  {% if entry.doi %}
+    <a href="https://doi.org/{{ entry.doi }}">
+  <img src="https://zenodo.org/badge/DOI/{{ entry.doi }}.svg" alt="DOI" />
+</a>
+  {% endif %}
+  {% if entry.url %}
+    <a href="{{ entry.url }}" target="_blank">[URL]</a>
+  {% endif %}
+  {% if entry.pdf %}
+    <a href="{{ entry.pdf }}" target="_blank">[PDF]</a>
+  {% endif %}
+</div>

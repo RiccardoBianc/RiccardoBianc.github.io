@@ -2,10 +2,7 @@ title: Riccardo Bianchini
 description: personale website
 theme: just-the-docs
 
-
-
 url: https://RiccardoBianc.github.io
-
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -21,3 +18,4 @@ scholar:
   bibliography: conference.bib
   order: descending
   sort_by: year
+  bibliography_template: bib

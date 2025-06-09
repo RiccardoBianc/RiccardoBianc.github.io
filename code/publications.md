@@ -1,21 +1,22 @@
 ---
 title: Publications
-layout: home
+layout: page
+nav_order: 2
 ---
 
 # Publications
 
 ## Conference papers
 
-{% bibliography --file conference%}
+{% bibliography --file conference --sort-by year%}
 
 ## Journal papers
 
-{% bibliography --file journal%}
+{% bibliography --file journal --sort-by year%}
 
 ## Workshop papers
 
-{% bibliography --file workshop%}
+{% bibliography --file workshop --sort-by year%}
 
 
 # PhD thesis
