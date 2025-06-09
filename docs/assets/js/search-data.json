@@ -1,24 +1,24 @@
 {"0": {
+    "doc": "Contacts",
+    "title": "Contacts",
+    "content": "Department of Computer Science, Bioengineering, Robotics and System Engineering Via Dodecaneso 35, Genoa, Italy Room 309 . email: riccardobianchini2@outlook.it . ",
+    "url": "/contacts.html",
+    
+    "relUrl": "/contacts.html"
+  },"1": {
     "doc": "Home",
     "title": "Riccardo Bianchini",
     "content": " ",
     "url": "/#riccardo-bianchini",
     
     "relUrl": "/#riccardo-bianchini"
-  },"1": {
+  },"2": {
     "doc": "Home",
     "title": "Research interests",
     "content": "My research focuses on foundations of programming languages. In particular, I am interested in adding resource-awareness to programming languages by using graded types. ",
     "url": "/#research-interests",
     
     "relUrl": "/#research-interests"
-  },"2": {
-    "doc": "Home",
-    "title": "Contacts",
-    "content": "Department of Computer Science, Bioengineering, Robotics and System Engineering Via Dodecaneso 35, Genoa, Italy Room 309 . email: riccardobianchini2@outlook.it . ",
-    "url": "/#contacts",
-    
-    "relUrl": "/#contacts"
   },"3": {
     "doc": "Home",
     "title": "Home",
@@ -68,5 +68,40 @@
     "url": "/publications.html#software",
     
     "relUrl": "/publications.html#software"
+  },"10": {
+    "doc": "Teaching activities",
+    "title": "Teaching activities",
+    "content": " ",
+    "url": "/teaching.html",
+    
+    "relUrl": "/teaching.html"
+  },"11": {
+    "doc": "Teaching activities",
+    "title": "Academic Year 2020–2021",
+    "content": ". | Teoria degli automi e calcolabilità (teaching assistant) · Course website . | . ",
+    "url": "/teaching.html#academic-year-20202021",
+    
+    "relUrl": "/teaching.html#academic-year-20202021"
+  },"12": {
+    "doc": "Teaching activities",
+    "title": "Academic Year 2021–2022",
+    "content": ". | Teoria degli automi e calcolabilità (teaching assistant) · Course website . | Basi di dati (teaching assistant) · Course website . | . ",
+    "url": "/teaching.html#academic-year-20212022",
+    
+    "relUrl": "/teaching.html#academic-year-20212022"
+  },"13": {
+    "doc": "Teaching activities",
+    "title": "Academic Year 2022–2023",
+    "content": ". | Linguaggi e programmazione orientata agli oggetti (teaching assistant) · Course website . | . ",
+    "url": "/teaching.html#academic-year-20222023",
+    
+    "relUrl": "/teaching.html#academic-year-20222023"
+  },"14": {
+    "doc": "Teaching activities",
+    "title": "Academic Year 2023–2024",
+    "content": ". | Linguaggi e programmazione orientata agli oggetti (teaching assistant) · Course website . | . ",
+    "url": "/teaching.html#academic-year-20232024",
+    
+    "relUrl": "/teaching.html#academic-year-20232024"
   }
 }
