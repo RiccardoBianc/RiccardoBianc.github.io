@@ -12,6 +12,8 @@ nav_order: 1
          width="200" height="100">
 </figure>
 
+I am a researcher in computer science who just finished a research fellow at [DIBRIS](https://dibris.unige.it), [University of Genoa](https://unige.it).
+
 ## Research interests
 
-My research focuses on foundations of programming languages. In particular, I am interested in adding resource-awareness to programming languages by using graded types.
+My research interests are on the design of resource-aware programming languages. In particular, I am focused on the design of graded type systems and semantics.

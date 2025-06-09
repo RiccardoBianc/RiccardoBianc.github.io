@@ -1,21 +1,21 @@
 {"0": {
     "doc": "Contacts",
     "title": "Contacts",
-    "content": "Department of Computer Science, Bioengineering, Robotics and System Engineering Via Dodecaneso 35, Genoa, Italy Room 309 . email: riccardobianchini2@outlook.it . ",
+    "content": "Department of Computer Science, Bioengineering, Robotics and System Engineering Via Dodecaneso 35, Genoa, Italy Room 309 (former address) . email: riccardobianchini2@outlook.it . ",
     "url": "/contacts.html",
     
     "relUrl": "/contacts.html"
   },"1": {
     "doc": "Home",
     "title": "Riccardo Bianchini",
-    "content": " ",
+    "content": "I am a researcher in computer science who just finished a research fellow at DIBRIS, University of Genoa. ",
     "url": "/#riccardo-bianchini",
     
     "relUrl": "/#riccardo-bianchini"
   },"2": {
     "doc": "Home",
     "title": "Research interests",
-    "content": "My research focuses on foundations of programming languages. In particular, I am interested in adding resource-awareness to programming languages by using graded types. ",
+    "content": "My research interests are on the design of resource-aware programming languages. In particular, I am focused on the design of graded type systems and semantics. ",
     "url": "/#research-interests",
     
     "relUrl": "/#research-interests"
@@ -57,7 +57,7 @@
   },"8": {
     "doc": "Publications",
     "title": "PhD thesis",
-    "content": "Resource-awareness for Java-like languages and beyond supervised by Elena Zucca (Unige), Francesco Dagnino (Unige) and Paola Giannini (UniUpo) DIBRIS - Università di Genova PhD Program in Computer Science and System Engineering, Cycle XXXVI Thesis defended in April 23, 2024 . ",
+    "content": "Resource-awareness for Java-like languages and beyond Resource-awareness for Java-like languages and beyond supervised by Elena Zucca (Unige), Francesco Dagnino (Unige) and Paola Giannini (UniUpo) DIBRIS - Università di Genova PhD Program in Computer Science and System Engineering, Cycle XXXVI Thesis defended in April 23, 2024 . ",
     "url": "/publications.html#phd-thesis",
     
     "relUrl": "/publications.html#phd-thesis"
@@ -78,7 +78,7 @@
   },"11": {
     "doc": "Teaching activities",
     "title": "Academic Year 2020–2021",
-    "content": ". | Teoria degli automi e calcolabilità (teaching assistant) · Course website . | . ",
+    "content": ". | Teoria degli automi e calcolabilità (teaching assistant) · Course website | . ",
     "url": "/teaching.html#academic-year-20202021",
     
     "relUrl": "/teaching.html#academic-year-20202021"
@@ -92,14 +92,14 @@
   },"13": {
     "doc": "Teaching activities",
     "title": "Academic Year 2022–2023",
-    "content": ". | Linguaggi e programmazione orientata agli oggetti (teaching assistant) · Course website . | . ",
+    "content": ". | Linguaggi e programmazione orientata agli oggetti (teaching assistant) · Course website | . ",
     "url": "/teaching.html#academic-year-20222023",
     
     "relUrl": "/teaching.html#academic-year-20222023"
   },"14": {
     "doc": "Teaching activities",
     "title": "Academic Year 2023–2024",
-    "content": ". | Linguaggi e programmazione orientata agli oggetti (teaching assistant) · Course website . | . ",
+    "content": ". | Linguaggi e programmazione orientata agli oggetti (teaching assistant) · Course website | . ",
     "url": "/teaching.html#academic-year-20232024",
     
     "relUrl": "/teaching.html#academic-year-20232024"

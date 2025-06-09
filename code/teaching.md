@@ -11,10 +11,8 @@ nav_order: 3
 
 {% for course in year.courses %}
 - **{{ course.title }}**  
-  {% if course.page %} · <a href="{{ course.page }}" target="_blank"> <i class="fas fa-globe"></i> Course website </a> {% endif %}
-  
-  <!-- [Course Page]({{ course.page }}) -->
-{% endfor %}
+  {% if course.page %} · <a href="{{ course.page }}" target="_blank"> <i class="fa-solid fa-link"></i> Course website </a> {% endif %}
+  {% endfor %}
 
 ---
 {% endfor %}

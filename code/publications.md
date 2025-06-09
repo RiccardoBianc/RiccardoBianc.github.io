@@ -20,11 +20,16 @@ nav_order: 2
 
 
 # PhD thesis
-[Resource-awareness for Java-like languages and beyond](https://iris.unige.it/retrieve/0491538c-536a-4994-86a8-e55c9535a110/phdunige_4231932.pdf)\\
+ <a href="https://iris.unige.it/retrieve/0491538c-536a-4994-86a8-e55c9535a110/phdunige_4231932.pdf" target="_blank"> <i class="fa-solid fa-file-pdf"></i>
+ Resource-awareness for Java-like languages and beyond </a> 
+[Resource-awareness for Java-like languages and beyond]()\\
 supervised by Elena Zucca (Unige), Francesco Dagnino (Unige) and Paola Giannini (UniUpo)\\
 DIBRIS - Università di Genova\\
 PhD Program in Computer Science and System Engineering, Cycle XXXVI\\
 Thesis defended in April 23, 2024
 
 # Software
-[Query AGT: An implementation in co-logic programming of the asynchronous global type system with a simple query language to interact with it](https://github.com/RiccardoBianc/QueryAGT)
+ <a href="https://github.com/RiccardoBianc/QueryAGT" target="_blank"><i class="fa-brands fa-github"></i>
+Query AGT: An implementation in co-logic programming of the asynchronous global type system with a simple query language to interact with it
+</a>
+
