@@ -20,7 +20,7 @@ nav_order: 2
 
 
 # PhD thesis
- <a href="https://iris.unige.it/retrieve/0491538c-536a-4994-86a8-e55c9535a110/phdunige_4231932.pdf" target="_blank"> <i class="fa-solid fa-file-pdf"></i>
+ <a href="https://iris.unige.it/retrieve/0491538c-536a-4994-86a8-e55c9535a110/phdunige_4231932.pdf" target="_blank"><i class="fa-solid fa-file"></i>
  Resource-awareness for Java-like languages and beyond </a> 
 [Resource-awareness for Java-like languages and beyond]()\\
 supervised by Elena Zucca (Unige), Francesco Dagnino (Unige) and Paola Giannini (UniUpo)\\
