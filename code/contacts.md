@@ -10,7 +10,7 @@ Department of Computer Science, Bioengineering, Robotics and System Engineering 
 Via Dodecaneso 35, Genoa, Italy \\
 Room 309 (former address)
 
-email: [riccardobianchini2@outlook.it](mailto:riccardobianchini2@outlook.it)
+email: [bianchiniriccardo429@gmail.com](mailto:bianchiniriccardo429@gmail.com)
 <footer>
 <a href="https://www.linkedin.com/in/riccardo-b-4079a31a6/"><i class="fa-brands fa-linkedin" style="font-size: 44px;"></i></a>
 
