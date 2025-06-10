@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: page
+layout: home
 nav_order: 2
 ---
 
