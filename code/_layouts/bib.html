@@ -4,8 +4,8 @@
   <!-- Link section -->
   {% if entry.doi %}
     <a href="https://doi.org/{{ entry.doi }}">
-<img src="https://cdn.simpleicons.org/doi/FAB70C" width="20px" alt="DOI logo">
-</a>
+      <img src="https://cdn.simpleicons.org/doi/FAB70C" width="20px" alt="DOI logo">
+    </a>
   {% endif %}
   {% if entry.url %}
     <a href="{{ entry.url }}" target="_blank">
@@ -17,5 +17,66 @@
       <i class="fa-solid fa-file" style="font-size: 20px;"></i>
     </a>
   {% endif %}
-  
+
+  <i class="fas fa-quote-left" style="font-size: 20px;" data-bs-toggle="modal" data-bs-target="#myModal{{ entry.key | slugify }}"></i>
+
+  <div class="modal fade" id="myModal{{ entry.key | slugify }}" tabindex="-1" aria-labelledby="modalLabel{{ entry.key | slugify }}" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="modalLabel{{ entry.key | slugify }}">BibTeX</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Chiudi"></button>
+        </div>
+        <div class="modal-body" id="content{{ entry.key | slugify }}">
+          <em>Loading...</em>
+        </div>
+        <div class="modal-footer">
+          <button id="buttonCopy{{entry.key | slugify}}" type="button" class="btn btn-primary copy-btn" data-target="content{{ entry.key | slugify }}">Copy in clipboard</button>
+          <a href="{{ entry.biburl}}" target="_blank">
+            <button id="buttonCopy{{entry.key | slugify}}" type="button" class="btn btn-primary copy-btn" > Download citation</button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const modalId = "myModal{{ entry.key | slugify }}";
+    const modalElem = document.getElementById(modalId);
+    const contentId = "content{{ entry.key | slugify }}";
+    const contentElem = document.getElementById(contentId);
+    const doi = modalElem.dataset.doi;
+    let loaded = false;
+    let currentBibtex = "";
+
+    modalElem.addEventListener('show.bs.modal', () => {
+      if (loaded) return;
+      if("{{entry.doi}}"==""){
+        contentElem.textContent = "{{entry.bibtex}}";
+          loaded = true;
+        return;
+      }
+
+fetch('https://doi.org/{{entry.doi}}', {
+  headers: { 'Accept': 'application/x-bibtex' }
+}).then(response => {
+          if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+          return response.text();
+        })
+        .then(data => {
+          currentBibtex = data;
+          contentElem.textContent = data;
+          loaded = true;
+        })
+        .catch(err => 
+        {
+          contentElem.textContent = 'Error in BibTeX loading';
+          console.error(err);
+          document.getElementById("buttonCopy{{entry.key | slugify}}").style.display = 'none';
+        });
+    });
+
+  });
+</script>
 </div>

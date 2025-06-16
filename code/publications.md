@@ -33,3 +33,23 @@ Thesis defended in April 23, 2024
 Query AGT: An implementation in co-logic programming of the asynchronous global type system with a simple query language to interact with it
 </a>
 
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const copyButtons = document.querySelectorAll('.copy-btn');
+
+  copyButtons.forEach(button => {
+    button.addEventListener('click', function () {
+      const targetId = this.getAttribute('data-target');
+      const content = document.getElementById(targetId).textContent;
+
+      navigator.clipboard.writeText(content).then(() => {
+        this.textContent = "Copied!";
+        setTimeout(() => this.textContent = "Copy in clipboard", 2000);
+      }).catch(err => {
+        console.error('Error in copying the content', err);
+        this.textContent = "Error in copying the content";
+      });
+    });
+  });
+});
+</script>
