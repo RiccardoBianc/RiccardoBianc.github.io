@@ -1,109 +1,116 @@
 {"0": {
+    "doc": "About",
+    "title": "About",
+    "content": ". | February 2024 - January 2025 postdoc position “Types for resource analysis” at DIBRIS,University of Genova | November 2020 - April 2024 PhD in computer science, University of Genova. | October 2018 - October 2020 MSc in computer science, University of Genova. | September 2015 - July 2018 BSc in copmputer science, University of Genova | . ",
+    "url": "/about.html",
+    
+    "relUrl": "/about.html"
+  },"1": {
     "doc": "Contacts",
     "title": "Contacts",
     "content": "Department of Computer Science, Bioengineering, Robotics and System Engineering Via Dodecaneso 35, Genoa, Italy Room 309 (former address) . email: bianchiniriccardo429@gmail.com . ",
     "url": "/contacts.html",
     
     "relUrl": "/contacts.html"
-  },"1": {
+  },"2": {
     "doc": "Home",
     "title": "Riccardo Bianchini",
     "content": "I am a researcher in computer science who just finished a research fellow at DIBRIS, University of Genoa. ",
     "url": "/#riccardo-bianchini",
     
     "relUrl": "/#riccardo-bianchini"
-  },"2": {
+  },"3": {
     "doc": "Home",
     "title": "Research interests",
     "content": "My research interests are on the design of resource-aware programming languages. In particular, I am focused on the design of graded type systems and semantics. ",
     "url": "/#research-interests",
     
     "relUrl": "/#research-interests"
-  },"3": {
+  },"4": {
     "doc": "Home",
     "title": "Research topics",
     "content": ". | graded type systems | graded operational semantics | global types | . ",
     "url": "/#research-topics",
     
     "relUrl": "/#research-topics"
-  },"4": {
+  },"5": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"5": {
+  },"6": {
     "doc": "Publications",
     "title": "Publications",
     "content": " ",
     "url": "/publications.html",
     
     "relUrl": "/publications.html"
-  },"6": {
+  },"7": {
     "doc": "Publications",
     "title": "Conference papers",
     "content": ". | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca. Resource-Aware Soundness for Big-Step Semantics. Proc. ACM Program. Lang., 7(OOPSLA2) :1281–1309, 2023. BibTeX . Loading... Copy in clipboard Download citation | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca. Multi-Graded Featherweight Java. In: Ali, K. and Salvaneschi, G. (eds.) 37th European Conference on Object-Oriented Programming, ECOOP 2023, July 17-21, 2023, Seattle, Washington, United States, pp. 3:1–3:27, Schloss Dagstuhl - Leibniz-Zentrum für Informatik, 2023. BibTeX . Loading... Copy in clipboard Download citation | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca. Multi-graded Featherweight Java (extended version). CoRR, abs/2302.07782 2023. BibTeX . Loading... Copy in clipboard Download citation | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, Elena Zucca, and Marco Servetto. Coeffects for sharing and mutation. Proc. ACM Program. Lang., 6(OOPSLA2) :870–898, 2022. BibTeX . Loading... Copy in clipboard Download citation | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca. A Java-Like Calculus with User-Defined Coeffects. In: Lago, U.D. and Gorla, D. (eds.) Proceedings of the 23rd Italian Conference on Theoretical Computer Science, ICTCS 2022, Rome, Italy, September 7-9, 2022, pp. 66–78, CEUR-WS.org, 2022. BibTeX . Loading... Copy in clipboard Download citation | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, Elena Zucca, and Marco Servetto. Coeffects for Sharing and Mutation (extended version). CoRR, abs/2209.07439 2022. BibTeX . Loading... Copy in clipboard Download citation | Riccardo Bianchini and Francesco Dagnino. Asynchronous Global Types in Co-logic Programming. In: Damiani, F. and Dardha, O. (eds.) Coordination Models and Languages - 23rd IFIP WG 6.1 International Conference, COORDINATION 2021, Held as Part of the 16th International Federated Conference on Distributed Computing Techniques, DisCoTec 2021, Valletta, Malta, June 14-18, 2021, Proceedings, pp. 134–146, Springer, 2021. BibTeX . Loading... Copy in clipboard Download citation | . ",
     "url": "/publications.html#conference-papers",
     
     "relUrl": "/publications.html#conference-papers"
-  },"7": {
+  },"8": {
     "doc": "Publications",
     "title": "Journal papers",
     "content": ". | Riccardo Bianchini and Francesco Dagnino. QueryAGT: Asynchronous global types in co-logic programming. Sci. Comput. Program., 225 :102895, 2023. BibTeX . Loading... Copy in clipboard Download citation | Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca. A Java-like calculus with heterogeneous coeffects. Theor. Comput. Sci., 971 :114063, 2023. BibTeX . Loading... Copy in clipboard Download citation | . ",
     "url": "/publications.html#journal-papers",
     
     "relUrl": "/publications.html#journal-papers"
-  },"8": {
+  },"9": {
     "doc": "Publications",
     "title": "Workshop papers",
     "content": ". | Riccardo Bianchini. Monitoring for Resource-Awareness. In: Ancona, D. and Audrito, G. (eds.) Proceedings of the 6th International Workshop on Verification and Monitoring at Runtime Execution, VORTEX 2023, Seattle, WA, USA, 18 July 2023, pp. 13–16, ACM, 2023. BibTeX . Loading... Copy in clipboard Download citation | . ",
     "url": "/publications.html#workshop-papers",
     
     "relUrl": "/publications.html#workshop-papers"
-  },"9": {
+  },"10": {
     "doc": "Publications",
     "title": "PhD thesis",
     "content": "Resource-awareness for Java-like languages and beyond supervised by Elena Zucca (Unige), Francesco Dagnino (Unige) and Paola Giannini (UniUpo) DIBRIS - Università di Genova PhD Program in Computer Science and System Engineering, Cycle XXXVI Thesis defended in April 23, 2024 . ",
     "url": "/publications.html#phd-thesis",
     
     "relUrl": "/publications.html#phd-thesis"
-  },"10": {
+  },"11": {
     "doc": "Publications",
     "title": "Software",
     "content": "Query AGT: An implementation in co-logic programming of the asynchronous global type system with a simple query language to interact with it . ",
     "url": "/publications.html#software",
     
     "relUrl": "/publications.html#software"
-  },"11": {
+  },"12": {
     "doc": "Teaching activities",
     "title": "Teaching activities",
     "content": " ",
     "url": "/teaching.html",
     
     "relUrl": "/teaching.html"
-  },"12": {
+  },"13": {
     "doc": "Teaching activities",
     "title": "Academic Year 2020–2021",
     "content": ". | Teoria degli automi e calcolabilità (teaching assistant) · Course website | . ",
     "url": "/teaching.html#academic-year-20202021",
     
     "relUrl": "/teaching.html#academic-year-20202021"
-  },"13": {
+  },"14": {
     "doc": "Teaching activities",
     "title": "Academic Year 2021–2022",
     "content": ". | Teoria degli automi e calcolabilità (teaching assistant) · Course website . | Basi di dati (teaching assistant) · Course website . | . ",
     "url": "/teaching.html#academic-year-20212022",
     
     "relUrl": "/teaching.html#academic-year-20212022"
-  },"14": {
+  },"15": {
     "doc": "Teaching activities",
     "title": "Academic Year 2022–2023",
     "content": ". | Linguaggi e programmazione orientata agli oggetti (teaching assistant) · Course website | . ",
     "url": "/teaching.html#academic-year-20222023",
     
     "relUrl": "/teaching.html#academic-year-20222023"
-  },"15": {
+  },"16": {
     "doc": "Teaching activities",
     "title": "Academic Year 2023–2024",
     "content": ". | Linguaggi e programmazione orientata agli oggetti (teaching assistant) · Course website | . ",
