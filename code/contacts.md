@@ -12,7 +12,7 @@ Room 309 (former address)
 
 email: [bianchiniriccardo429@gmail.com](mailto:bianchiniriccardo429@gmail.com)
 <footer>
-<a href="https://www.linkedin.com/in/riccardo-b-4079a31a6/"><i class="fa-brands fa-linkedin" style="font-size: 44px;"></i></a>
+<a href="https://www.linkedin.com/in/riccardobianchini2/"><i class="fa-brands fa-linkedin" style="font-size: 44px;"></i></a>
 
 <a href="//github.com/RiccardoBianc"><i class="fa-brands fa-github" style="font-size: 44px;"></i></a>
 
