@@ -20,6 +20,9 @@ email: [bianchiniriccardo429@gmail.com](mailto:bianchiniriccardo429@gmail.com)
 
 <a href="https://scholar.google.com/citations?user=vl3_fHMAAAAJ&hl=en"><i class="fa-brands fa-google-scholar" style="font-size: 44px;"></i></a>
 
+<a href="https://orcid.org/0000-0003-0491-7652"><i class="fa-brands fa-orcid" style="font-size: 44px;"></i></a>
+
+
 <a href="https://dblp.org/pid/176/0575.html"><i class="cib-dblp" style="font-size: 44px;"></i></a>
 
 </footer>
