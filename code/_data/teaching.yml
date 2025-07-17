@@ -16,9 +16,15 @@
   courses:
     - title: Linguaggi e programmazione orientata agli oggetti (teaching assistant)
       program: Bachelor in Computer Science
-      page: https://corsi.unige.it/off.f/2022/ins/52498
+      page: https://corsi.unige.it/off.f/2022/ins/52508
+    - title: Teoria degli automi e calcolabilità (teaching assistant)
+      program: Bachelor in Computer Science
+      page: https://corsi.unige.it/off.f/2021/ins/46816
 - year: 2023–2024
   courses:
     - title: Linguaggi e programmazione orientata agli oggetti (teaching assistant)
       program: Bachelor in Computer Science
       page: https://corsi.unige.it/off.f/2023/ins/63559
+    - title: Basi di dati (teaching assistant)
+      program: Bachelor in Computer Science
+      page: https://corsi.unige.it/off.f/2023/ins/63557
