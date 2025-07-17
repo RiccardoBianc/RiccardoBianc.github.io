@@ -1,30 +1,30 @@
 - year: 2020–2021
   courses:
-    - title: Teoria degli automi e calcolabilità (teaching assistant)
+    - title: Automata Theory And Computability (teaching assistant)
       program: Bachelor in Computer Science
-      page: https://corsi.unige.it/off.f/2020/ins/43096
+      page: https://corsi.unige.it/en/node/194079
 - year: 2021–2022
   courses:
-    - title: Teoria degli automi e calcolabilità (teaching assistant)
+    - title: Foundations Of Computer Science (teaching assistant)
       program: Bachelor in Computer Science
-      page: https://corsi.unige.it/off.f/2021/ins/46816
+      page: https://corsi.unige.it/en/node/196124
 
-    - title: Basi di dati (teaching assistant)
+    - title: Databases (teaching assistant)
       program: Bachelor in Computer Science
-      page: https://corsi.unige.it/off.f/2021/ins/48424
+      page: https://corsi.unige.it/en/off.f/2021/ins/48424
 - year: 2022–2023
   courses:
-    - title: Linguaggi e programmazione orientata agli oggetti (teaching assistant)
+    - title: Programming Languages And Object-Oriented Programming (teaching assistant)
       program: Bachelor in Computer Science
-      page: https://corsi.unige.it/off.f/2022/ins/52508
-    - title: Teoria degli automi e calcolabilità (teaching assistant)
+      page: https://corsi.unige.it/en/off.f/2022/ins/52498
+    - title: Foundations Of Computer Science (teaching assistant)
       program: Bachelor in Computer Science
-      page: https://corsi.unige.it/off.f/2021/ins/46816
+      page: https://corsi.unige.it/en/off.f/2022/ins/59345
 - year: 2023–2024
   courses:
-    - title: Linguaggi e programmazione orientata agli oggetti (teaching assistant)
+    - title: Programming Languages And Object-Oriented Programming (teaching assistant)
       program: Bachelor in Computer Science
-      page: https://corsi.unige.it/off.f/2023/ins/63559
-    - title: Basi di dati (teaching assistant)
+      page: https://corsi.unige.it/en/off.f/2023/ins/63559
+    - title: Database Management Systems (teaching assistant)
       program: Bachelor in Computer Science
-      page: https://corsi.unige.it/off.f/2023/ins/63557
+      page: https://corsi.unige.it/en/off.f/2023/ins/63557

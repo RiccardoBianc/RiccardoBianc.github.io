@@ -2,7 +2,7 @@
 title: Teaching activities
 layout: home
 nav_order: 3
-last_modified_date: July 17 2025 at 10:36 AM
+last_modified_date: July 17 2025 at 16:04 PM
 ---
 
 # Teaching activities
