@@ -2,7 +2,7 @@
 title: Publications
 layout: home
 nav_order: 2
-last_modified_date: June 14 2025 at 10:45 AM
+last_modified_date: July 21 2025 at 09:20 AM
 ---
 
 # Publications
@@ -18,6 +18,10 @@ last_modified_date: June 14 2025 at 10:45 AM
 ## Workshop papers
 
 {% bibliography --file workshop --sort-by year%}
+
+## Preprint papers
+
+{% bibliography --file preprint --sort-by year%}
 
 
 # PhD thesis
