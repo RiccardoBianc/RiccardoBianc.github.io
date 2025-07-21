@@ -32,9 +32,12 @@
         </div>
         <div class="modal-footer">
           <button id="buttonCopy{{entry.key | slugify}}" type="button" class="btn btn-primary copy-btn" data-target="content{{ entry.key | slugify }}">Copy in clipboard</button>
+            {% if entry.biburl %}
           <a href="{{ entry.biburl}}" target="_blank">
             <button id="buttonCopy{{entry.key | slugify}}" type="button" class="btn btn-primary copy-btn" > Download citation</button>
           </a>
+            {% endif %}
+
         </div>
       </div>
     </div>
