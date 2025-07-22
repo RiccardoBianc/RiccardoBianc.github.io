@@ -30,7 +30,8 @@
         <div class="modal-body" id="content{{ entry.key | slugify }}">
           <em>Loading...</em>
         </div>
-        <div class="modal-footer">
+        <div class="modal-footer gap-3">
+          
           <button id="buttonCopy{{entry.key | slugify}}" type="button" class="btn btn-primary copy-btn" data-target="content{{ entry.key | slugify }}">Copy in clipboard</button>
           
           <button id="buttonDownload{{entry.key | slugify}}" type="button" class="btn btn-primary" > Download citation</button>
