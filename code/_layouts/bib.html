@@ -24,7 +24,7 @@
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="modalLabel{{ entry.key | slugify }}">BibTeX</h5>
+          <h5 class="modal-title" id="modalLabel{{ entry.key | slugify }}">BibTex</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Chiudi"></button>
         </div>
         <div class="modal-body" id="content{{ entry.key | slugify }}">
@@ -32,12 +32,8 @@
         </div>
         <div class="modal-footer">
           <button id="buttonCopy{{entry.key | slugify}}" type="button" class="btn btn-primary copy-btn" data-target="content{{ entry.key | slugify }}">Copy in clipboard</button>
-            {% if entry.biburl %}
-          <a href="{{ entry.biburl}}" target="_blank">
-            <button id="buttonCopy{{entry.key | slugify}}" type="button" class="btn btn-primary copy-btn" > Download citation</button>
-          </a>
-            {% endif %}
-
+          
+          <button id="buttonDownload{{entry.key | slugify}}" type="button" class="btn btn-primary" > Download citation</button>
         </div>
       </div>
     </div>
@@ -55,31 +51,26 @@
 
     modalElem.addEventListener('show.bs.modal', () => {
       if (loaded) return;
-      if("{{entry.doi}}"==""){
-        contentElem.textContent = "{{entry.bibtex}}";
-          loaded = true;
-        return;
-      }
-
-fetch('https://doi.org/{{entry.doi}}', {
-  headers: { 'Accept': 'application/x-bibtex' }
-}).then(response => {
-          if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-          return response.text();
-        })
-        .then(data => {
-          currentBibtex = data;
-          contentElem.textContent = data;
-          loaded = true;
-        })
-        .catch(err => 
-        {
-          contentElem.textContent = 'Error in BibTeX loading';
-          console.error(err);
-          document.getElementById("buttonCopy{{entry.key | slugify}}").style.display = 'none';
-        });
+      contentElem.textContent = "{{entry.bibtex}}";
+      loaded = true;
+      return;
     });
+    const downloadButtonElem = document.getElementById("buttonDownload{{entry.key | slugify}}");
+    downloadButtonElem.addEventListener("click",() => {
+      const content = "{{ entry.bibtex | escape('js') }}";
+      const fileName = "{{entry.key | escape('js') }}.bib";
+      
+      const blob = new Blob([content], { type: "text/plain" });
 
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = fileName;
+
+      document.body.appendChild(link);
+      link.click();
+
+      document.body.removeChild(link);
+    });
   });
 </script>
 </div>
