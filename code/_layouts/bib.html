@@ -18,6 +18,23 @@
     </a>
   {% endif %}
 
+  <i class="fas fa-search" style="font-size: 20px;" data-bs-toggle="modal" data-bs-target="#abstractModal{{ entry.key | slugify }}"></i>
+
+  <div class="modal fade" id="abstractModal{{ entry.key | slugify }}" tabindex="-1" aria-labelledby="modalLabelAbstract{{ entry.key | slugify }}" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="modalLabelAbstract{{ entry.key | slugify }}">Abstract</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Chiudi"></button>
+        </div>
+        <div class="modal-body" id="contentAbstract{{ entry.key | slugify }}">
+            {% assign pair = site.data.abstracts.abstracts | where: "keyword", entry.key | first %}
+            {{ pair.abstract }}
+        </div>
+      </div>
+    </div>
+  </div>
+
   <i class="fas fa-quote-left" style="font-size: 20px;" data-bs-toggle="modal" data-bs-target="#myModal{{ entry.key | slugify }}"></i>
 
   <div class="modal fade" id="myModal{{ entry.key | slugify }}" tabindex="-1" aria-labelledby="modalLabel{{ entry.key | slugify }}" aria-hidden="true">
