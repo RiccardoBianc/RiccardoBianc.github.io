@@ -24,7 +24,7 @@ email: [bianchiniriccardo429@gmail.com](mailto:bianchiniriccardo429@gmail.com)
 
 <a href="https://orcid.org/0000-0003-0491-7652"><i class="fa-brands fa-orcid" style="font-size: 44px;"></i></a>
 
-<a href="https://dblp.org/pid/176/0575.html"><i class="cib-dblp" style="font-size: 44px;"></i></a>
+<a href="https://dblp.org/pid/176/0575-1.html"><i class="cib-dblp" style="font-size: 44px;"></i></a>
 
 <a href="https://www.canva.com/design/DAGs3SUQLs0/efYaO8wycLq_pk1EwldVSw/view?utm_content=DAGs3SUQLs0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc56804c0ac"><i><img src="assets/cv-icon.jpg" style="height: 44px;"></i></a>
 </div>
