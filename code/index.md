@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Riccardo Bianchini <a href="https://www.canva.com/design/DAGs3SUQLs0/efYaO8wycLq_pk1EwldVSw/view?utm_content=DAGs3SUQLs0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc56804c0ac"><i><img src="assets/cv-icon.jpg" style="height: 44px;"></i></a>
+# Riccardo Bianchini
 
 <figure>
     <img src="./picture.jpg"
