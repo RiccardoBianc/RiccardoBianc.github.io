@@ -13,13 +13,12 @@ nav_order: 1
          >
 </figure>
 
-I am a researcher in computer science who just finished a research fellow at [DIBRIS](https://dibris.unige.it/en), [University of Genoa](https://unige.it/en).
+I’m a Junior Quant Analyst at Axpo Italia S.p.A. On the day-to-day, I look after our IT infrastructure, keeping everything stable and reliable, while always looking for ways to upgrade our systems so our models can run faster and better.
 
-
-
+<!--
 ## Research interests
 
-My research interests are on the design of resource-aware programming languages. In particular, I am focused on the design of graded type systems and semantics.
+My academic research interests lie in the design of resource-aware programming languages. In particular, during my PhD and subsequent research fellowship, I focused on the design of graded type systems and semantics.
 
 
 ## Research topics
@@ -27,3 +26,4 @@ My research interests are on the design of resource-aware programming languages.
 - graded type systems
 - graded operational semantics
 - global types
+-->

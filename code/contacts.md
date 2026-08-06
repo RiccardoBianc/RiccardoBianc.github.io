@@ -6,10 +6,6 @@ nav_order: 5
 
 # Contacts
 
-Department of Computer Science, Bioengineering, Robotics and System Engineering \\
-Via Dodecaneso 35, Genoa, Italy \\
-Room 309 (former address)
-
 email: [bianchiniriccardo429@gmail.com](mailto:bianchiniriccardo429@gmail.com)
 <footer>
 <div style="display: flex; align-items: center; gap: 8px;">
