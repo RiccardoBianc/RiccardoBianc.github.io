@@ -5,7 +5,7 @@ nav_order: 3
 last_modified_date: July 17 2025 at 16:04 PM
 ---
 
-# Teaching activities
+# Teaching activities 
 
 {% for year in site.data.teaching %}
 ## Academic Year {{ year.year }}
